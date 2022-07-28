@@ -1,0 +1,8 @@
+<ZT2Strings>
+	<ZTWebComponent version="1">
+		<OfficialFilesSite>http://127.0.0.1/zt2/1033/</OfficialFilesSite>
+		<MOTDSite>http://127.0.0.1/zt2/1033/</MOTDSite>
+		<FilesIndexURL>filesindex2.xml</FilesIndexURL>
+		<MOTDURL>motd.xml</MOTDURL>
+	</ZTWebComponent>
+</ZT2Strings>
